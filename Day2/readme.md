@@ -29,6 +29,6 @@ Blue	255	-Full blue
 
 <img width="1594" height="773" alt="6" src="https://github.com/user-attachments/assets/af638830-7175-437d-a78a-b28f7fccb39f" />
 
-▶️Convert rgb image to gray image.➡️use rgb2gray() function.
+▶️Convert rgb image to gray image.➡️use **rgb2gray()** function.
 
 <img width="1596" height="780" alt="7" src="https://github.com/user-attachments/assets/5023e849-c8ec-400e-8cf7-83cfcd1b93c6" />
