@@ -11,5 +11,9 @@
 
 <img width="1551" height="780" alt="4" src="https://github.com/user-attachments/assets/20a73ee0-fcc8-4a98-9a61-b504a150bf12" />
 <img width="1586" height="737" alt="5" src="https://github.com/user-attachments/assets/03cc406a-1efd-4a57-9429-3e10c000fef8" />
+
+▶️Genarate random image
 <img width="1594" height="773" alt="6" src="https://github.com/user-attachments/assets/af638830-7175-437d-a78a-b28f7fccb39f" />
+
+▶️Convert rgb image to gray image.➡️use rgb2gray() function.
 <img width="1596" height="780" alt="7" src="https://github.com/user-attachments/assets/5023e849-c8ec-400e-8cf7-83cfcd1b93c6" />
