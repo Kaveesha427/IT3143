@@ -17,11 +17,11 @@
 ▶️Change the pixel (25,50) to magenta colour
 
 🟪 [255, 0, 255] — What Does This Mean?
-
+<pre>
 Red	255	-Full red
 Green	0	-No green
 Blue	255	-Full blue
-
+</pre>
 
 <img width="1586" height="737" alt="5" src="https://github.com/user-attachments/assets/03cc406a-1efd-4a57-9429-3e10c000fef8" />
 
