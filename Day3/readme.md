@@ -55,7 +55,8 @@ For RGB images, it inverts each color channel (R, G, B) individually.
 
 <h2>xor</h2>
 
-![Uploading 10(xor).png…]()
+<img width="1599" height="822" alt="10(xor)" src="https://github.com/user-attachments/assets/aa6b6201-3b2d-4e15-aa1a-e685943fccc8" />
+
 
 <h3>Exercise7</h3>
 
